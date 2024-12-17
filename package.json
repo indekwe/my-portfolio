@@ -4,5 +4,11 @@
   "main": "index.js",
   "repository": "https://github.com/indekwe/Portifolio.git",
   "author": "indekwe <findekwe@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+}
 }
