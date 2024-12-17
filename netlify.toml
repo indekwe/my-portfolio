@@ -1,0 +1,4 @@
+[build]
+  base = "frontend"       # Your React project directory
+  command = "npm run build"  # Build command
+  publish = "frontend/build" # Publish the build folder
